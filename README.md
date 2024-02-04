@@ -18,4 +18,4 @@
 - **서버** : Apache Tomcat 9.0
 - **DB** : Oracle 18c
 - **IDE** : Eclipse 2023-06 (4.28.0), SQL Developer
-- **API, 라이브러리** : RESTful API (JSON), i'amport API, Daum 우편번호 서비스 API, Jquery, Servlet, JSTL
+- **API, 라이브러리** : RESTful API (JSON), i'amport API, Daum 우편번호 서비스 API, coolsms RestAPI, Jquery, Servlet, JSTL
